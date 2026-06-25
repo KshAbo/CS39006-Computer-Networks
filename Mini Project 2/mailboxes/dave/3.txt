@@ -1,0 +1,8 @@
+From: Alice Smith
+To: bob, dave
+Subject: Meeting Tomorrow
+Date: 2026-04-04 08:50:54
+---
+Hi Bob,
+Just a reminder about our meeting tomorrow at 3 PM.
+Please bring the project report.
